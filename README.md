@@ -11,8 +11,8 @@
 
 - 💻 Desenvolvedor com experiência em **desenvolvimento web** (JavaScript, TypeScript, HTML/CSS), migrando para **Análise e Engenharia de Dados**
 - 🐍 Foco atual: **Python, SQL e AWS** para construir pipelines e transformar dados em decisões
-- 🌱 A partir de agora, publico aqui os meus projetos de dados
-- 🤝 Aberto a oportunidades na área de dados
+- 🎯 Interesse em modelagem de dados, ETL/ELT e arquitetura de dados na nuvem
+- 📈 Gosto de transformar dados brutos em informação útil para o negócio
 
 <p align="center">
   <img src="./assets/pipeline.svg" alt="Pipeline de dados: Fontes → Ingestão (Python) → Armazenamento (AWS S3) → Transformação (SQL) → Insights" width="100%"/>
